@@ -1,1 +1,2 @@
-added first line in unicorns branchadded second line in master branch
+added first line in unicorns branch
+added second line in master branch
